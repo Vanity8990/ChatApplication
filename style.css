@@ -1,0 +1,31 @@
+.img{
+    text-align: center;
+    margin: 20px auto;
+    padding: 20px 10px;
+}
+body{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 600px;
+    margin: 25px auto;
+    text-align: center;
+    padding: 50px 0 0;
+    border-radius: 25px;
+}
+html {
+    background: url(img/kungfupandabackground.jpg) no-repeat center fixed;
+    background-size: cover;
+  }
+  img{
+    width: 500px;
+  }
+  a{
+    opacity: 0.6;
+    color: purple
+  }
+  a:hover{
+    opacity: 2;
+    font-weight: bold;
+  }
+  .txt{
+    padding: px 10px 20px;
+  }
